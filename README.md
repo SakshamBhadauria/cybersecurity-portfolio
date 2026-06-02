@@ -21,10 +21,24 @@ This repository contains my learning, labs, and projects from the Google Cyberse
 
 ---
 
-## 🚀 Projects (Coming Soon)
-- Log Analysis Project
-- Incident Response Report
-- Linux Security Hardening
+## 🚀 Projects
+
+### 🔐 Security Audit Report
+Conducted a security audit as part of the Google Cybersecurity Certificate, identifying risks, evaluating controls, and providing recommendations.
+
+📄 [View Security Audit Report](projects/security-audit-report.md)
+``
+
+---
+
+## 🛠️ Labs
+- Linux File Permissions Lab (with analysis)
+
+---
+
+## 📚 Course Notes
+- Linux Basics
+``
 
 ---
 
