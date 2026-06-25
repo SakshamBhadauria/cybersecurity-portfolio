@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Portfolio – Saksham Bhadauria
 
-This repository contains my learning, labs, and projects from the Google Cybersecurity Professional Certificate.
+This repository contains my learning, labs, and projects from the Google Cybersecurity Professional Certificate and hands-on cybersecurity platforms like TryHackMe.
 
 ---
 
@@ -27,7 +27,13 @@ This repository contains my learning, labs, and projects from the Google Cyberse
 Conducted a security audit as part of the Google Cybersecurity Certificate, identifying risks, evaluating controls, and providing recommendations.
 
 📄 [View Security Audit Report](projects/security-audit-report.md)
-``
+
+---
+
+### 🛡️ SOC Fundamentals Lab (TryHackMe)
+Completed a hands-on SOC fundamentals lab covering monitoring, threat detection, and incident response workflows.
+
+📄 [View SOC Fundamentals Lab](projects/soc-fundamentals-tryhackme.md)
 
 ---
 
@@ -37,8 +43,10 @@ Conducted a security audit as part of the Google Cybersecurity Certificate, iden
 ---
 
 ## 📚 Course Notes
-- Linux Basics
-``
+- Course 1: Foundations of Cybersecurity  
+- Course 2: Security & Risk Management  
+- Course 3: Networks & Network Security  
+- Course 4: Linux & SQL  
 
 ---
 
