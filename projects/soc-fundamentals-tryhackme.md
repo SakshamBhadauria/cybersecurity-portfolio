@@ -1,94 +1,117 @@
-# SOC Fundamentals – TryHackMe Lab
+# SOC Fundamentals & Incident Response – TryHackMe Labs
 
 ## 📘 Overview
-This lab was completed on TryHackMe and focuses on understanding the fundamentals of a Security Operations Center (SOC).
+This project includes hands-on labs completed on TryHackMe covering:
 
-The objective was to learn how SOC teams operate, detect threats, and respond to security incidents.
+- Defensive Security Basics  
+- SOC Fundamentals  
+- Incident Response Fundamentals  
 
----
-
-## 🏢 What is a SOC?
-
-A Security Operations Center (SOC) is a centralized team responsible for:
-- Monitoring security events  
-- Detecting threats  
-- Investigating incidents  
-- Responding to cyber attacks  
+The objective was to understand how Security Operations Centers operate and how security incidents are detected, analyzed, and handled.
 
 ---
 
-## 🧩 Key Components of SOC
+## 🛡️ Defensive Security Intro (Prerequisite)
 
-### 1. People
-- Security Analysts (Tier 1, Tier 2, Tier 3)
-- Security Engineers
-- Incident Responders
+### Key Learnings
+- Basics of defensive security  
+- Importance of monitoring systems  
+- Introduction to detection and response  
+
+✅ Status: Completed  
 
 ---
 
-### 2. Process
-- Incident detection  
+## 🔎 SOC Fundamentals
+
+### SOC Components
+
+#### People
+- Security Analysts  
+- Incident Responders  
+- Security Engineers  
+
+---
+
+#### Process
+- Detection  
+- Analysis  
 - Investigation  
 - Response  
-- Reporting  
 
 ---
 
-### 3. Technology
-
+#### Technology
 - SIEM tools  
 - IDS / IPS  
-- EDR (Endpoint Detection & Response)  
 - Firewalls  
+- Endpoint Detection & Response (EDR)  
 
 ---
 
-## 🔍 SOC Workflow (Practical Understanding)
-
+### SOC Workflow
 1. Monitor alerts  
-2. Analyze suspicious activity  
-3. Investigate logs  
-4. Identify threats  
-5. Respond to incidents  
+2. Investigate logs  
+3. Identify threats  
+4. Respond to incidents  
+
+✅ Status: Completed  
 
 ---
 
-## 🛠️ Practical Exercise
+## 🚨 Incident Response Fundamentals
 
-During the lab:
-- Understood how alerts are generated  
-- Learned how analysts investigate suspicious activity  
-- Observed how tools like SIEM help detect threats  
+### Incident Response Lifecycle
 
----
-
-## 🎯 Key Learning
-
-- SOC is the core of cybersecurity operations  
-- Threat detection relies heavily on monitoring systems  
-- Tools like SIEM are critical for identifying attacks  
-- Incident response follows a structured process  
-- Team collaboration is essential in SOC environments  
+1. Preparation  
+2. Detection & Analysis  
+3. Containment  
+4. Eradication  
+5. Recovery  
+6. Lessons Learned  
 
 ---
 
-## 💡 Real-World Relevance
+### Key Learnings
 
-This lab simulates real SOC responsibilities such as:
-- Monitoring logs  
-- Investigating alerts  
-- Responding to suspicious activities  
+- Incident response follows a structured lifecycle  
+- Logs are critical for detecting and analyzing incidents  
+- Quick containment prevents spread of attack  
+- Documentation is essential in every step  
+- Teams coordinate to manage incidents effectively  
 
-These are key skills required for SOC Analyst roles.
+---
+
+### Practical Understanding
+
+- Understood real SOC incident handling process  
+- Learned how analysts detect and respond to threats  
+- Observed incident investigation and response workflow  
+
+✅ Status: Completed  
+
+---
+
+## 🎯 Overall Learning
+
+- SOC is the backbone of cybersecurity defense  
+- Detection and monitoring are critical skills  
+- Incident response requires structured thinking  
+- People, process, and technology work together  
+
+---
+
+## 💼 Real-World Relevance
+
+This project demonstrates:
+
+- SOC monitoring skills  
+- Incident response lifecycle understanding  
+- Threat investigation basics  
+
+These are essential skills required for a **SOC Analyst role**
 
 ---
 
 ## 🔗 Platform
-
-- TryHackMe – SOC Fundamentals Room  
-
----
-
-## ✅ Status
-Completed ✅
-``
+- TryHackMe
