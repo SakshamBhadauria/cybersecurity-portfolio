@@ -30,10 +30,15 @@ Conducted a security audit as part of the Google Cybersecurity Certificate, iden
 
 ---
 
-### 🛡️ SOC Fundamentals Lab (TryHackMe)
-Completed a hands-on SOC fundamentals lab covering monitoring, threat detection, and incident response workflows.
+### 🛡️ SOC & Incident Response Labs (TryHackMe)
+Completed hands-on labs covering:
+- Defensive Security Basics  
+- SOC Fundamentals  
+- Incident Response lifecycle (detection, analysis, containment, recovery)  
 
-📄 [View SOC Fundamentals Lab](projects/soc-fundamentals-tryhackme.md)
+Focused on real-world SOC operations, threat detection, and incident handling workflows.
+
+📄 [View SOC & Incident Response Project](projects/soc-fundamentals-tryhackme.md)
 
 ---
 
